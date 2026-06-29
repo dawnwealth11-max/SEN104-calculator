@@ -5,6 +5,8 @@
 /.idea/workspace.xml
 /.idea/nav/js.collab
 /.idea/codeStyles
+/app
+/.app/build
 .DS_Store
 /captures
 .externalNativeBuild
